@@ -1,0 +1,6 @@
+slpoe=9.621505	 Intercept=0.016852
+Residual_sum_of_squares=0.001379
+Reduced_chi_square=0.000197
+RMS_of_residuals=0.014038
+standard error in slope=0.047497
+standard error in intercept=0.008067
